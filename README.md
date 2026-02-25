@@ -1,6 +1,7 @@
 # 💸 App de Finanças Pessoais com Vibe Coding e Linguagem do Kleber
 
-PRD – App Financeiro Conversacional com Design Universal
+## PRD – App Financeiro Conversacional com Design Universal
+
 ```markdown
 1. Visão Geral
 Criar um aplicativo de organização financeira pessoal baseado em conversas em linguagem natural, acessível e intuitivo para o maior número possível de pessoas. O produto deve seguir princípios de Design Universal, garantindo que diferentes perfis de usuários, incluindo iniciantes e pessoas com necessidades de acessibilidade, tenham uma experiência fluida.
@@ -63,24 +64,23 @@ Apps financeiros tradicionais exigem muita entrada manual, categorização repet
 4. Recebimento de insights.
 5. Consulta de relatórios acessíveis.
 ````
-Interações com Lovable:
+---
 
-> Crie por favor um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
+## Interações com o Lovable
 
-> Preciso que inclua uma autenticação segura de (email/senha) no inicio
+> Crie por favor um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}  
+> Preciso que inclua uma autenticação segura de (email/senha) no início  
+> Sim (Perfil de usuário: Sim, com perfil)  
+> Enviar para Nuvem (Submitted "Enable Cloud")  
+> Permitir modificar banco de dados (Allowed "Modify database")  
+> Preciso que inclua também receitas e não só gastos  
+> Habilitar os recursos (Método de registro: Via chat (linguagem natural) / Categorias: Personalizáveis)
 
-> Sim (Perfil de usuário: Sim, com perfil)
+**Resultado Final no Lovable:**  
+[https://clarity-chat-cash.lovable.app/](https://clarity-chat-cash.lovable.app/)
 
-> Enviar para Nuvem (Submitted "Enable Cloud")
-
-> Permiti modificar banco de dados (Allowed "Modify database")
-
-> Preciso que inclua também receitas e não só gastos
-
-> Habilitar os recursos (Método de registro: Via chat (linguagem natural)
-Categorias: Personalizáveis)
-
-Resultado Final no Lovable: https://clarity-chat-cash.lovable.app/
+---
+**Print´s do Aplicativo:**
 
 ![Tela 01 Inicial](https://github.com/user-attachments/assets/274e6382-b241-45d6-8ad9-c57133dc5f3f)
 
@@ -97,6 +97,8 @@ Resultado Final no Lovable: https://clarity-chat-cash.lovable.app/
 ![Tela 07 Relatórios](https://github.com/user-attachments/assets/a3468d5d-3ff9-44f2-853c-952b0519b701)
 
 ![Tela 08 Configurações](https://github.com/user-attachments/assets/99213c63-6d30-46b0-a025-012ca9b47234)
+
+---
 
 # Funcionalidades do Aplicativo
 
@@ -165,7 +167,7 @@ As funcionalidades implementadas refletem os objetivos definidos no PRD:
 - Onboarding curto e educativo.
 - Configurações que permitem personalização e acessibilidade.
 
-
+---
 
 ## Reflexão sobre o processo
 
@@ -177,5 +179,6 @@ Tive muito pouco tempo para fazer o projeto (3 horas) e o Lovable me deu apenas 
 
 ### O que aprendeu sobre conversar com IAs?
 Aprendi que qualquer pessoa com o minimo de conhecimento pode criar um app incrível, simplesmente conversando de maneira natural com a IA.
+
 
 
