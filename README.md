@@ -1,5 +1,7 @@
 # 💸 App de Finanças Pessoais com Vibe Coding e Linguagem do Kleber
 
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Copilot Web e o Lovable. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
 ## PRD – App Financeiro Conversacional com Design Universal
 
 ```markdown
@@ -75,8 +77,9 @@ Apps financeiros tradicionais exigem muita entrada manual, categorização repet
 > Permitir modificar banco de dados (Allowed "Modify database")  
 > Preciso que inclua também receitas e não só gastos  
 > Habilitar os recursos (Método de registro: Via chat (linguagem natural) / Categorias: Personalizáveis)
+---
 
-**Resultado Final no Lovable:**  
+## Resultado Final no Lovable  
 [https://clarity-chat-cash.lovable.app/](https://clarity-chat-cash.lovable.app/)
 
 ---
